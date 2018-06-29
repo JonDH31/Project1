@@ -1,0 +1,41 @@
+body {
+    font-family: 'Julius Sans One', sans-serif;
+     
+}
+
+#canvas-image {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.jumbotron {
+    background: url('../javascript/granim.js')
+}
+
+.container {
+    background: #666666;
+    padding: 35px; 
+    color: whitesmoke;
+    background-size: cover;
+    text-align: center;
+    
+}
+
+
+#forms {
+    font-size: 14px;
+}
+
+
+#submit {
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
